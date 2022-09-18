@@ -1,0 +1,9 @@
+Essa é uma linha que eu escrevi no python
+Essa é segunda linha que eu escrevi no python
+Essa é a terceira linha que eu escrevi no python
+Essa é quarta linha que eu escrevi no python
+Essa é quinta linha que eu escrevi no python
+Essa é a sexta linha que eu escrevi no python
+Essa é sétima linha que eu escrevi no python
+xablau
+maria
