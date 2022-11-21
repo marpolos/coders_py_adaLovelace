@@ -1,4 +1,4 @@
-aluno,professor,materia
-Ana,Lara,Matemática
-Ana,Lara,Matemática
-Ana,Lara,Matemática
+aluno,professor,matéria
+"{'nome': 'Ana', 'matricula': 5602, 'sexo': 'Outro'}","{'nome': 'Maria', 'idade': 48, 'sexo': 'F'}","{'nome': 'Português', 'carga': 100, 'dia': 'Quarta'}"
+"{'nome': 'Ana', 'matricula': 2389, 'sexo': 'M'}","{'nome': 'Maria', 'idade': 52, 'sexo': 'F'}","{'nome': 'Matemática', 'carga': 100, 'dia': 'Segunda'}"
+"{'nome': 'Marta', 'matricula': 5456, 'sexo': 'Outro'}","{'nome': 'Paulo', 'idade': 48, 'sexo': 'F'}","{'nome': 'História', 'carga': 50, 'dia': 'Sexta'}"
