@@ -1,4 +1,4 @@
 aluno,professor,matéria
-"{'nome': 'Ana', 'matricula': 5602, 'sexo': 'Outro'}","{'nome': 'Maria', 'idade': 48, 'sexo': 'F'}","{'nome': 'Português', 'carga': 100, 'dia': 'Quarta'}"
-"{'nome': 'Ana', 'matricula': 2389, 'sexo': 'M'}","{'nome': 'Maria', 'idade': 52, 'sexo': 'F'}","{'nome': 'Matemática', 'carga': 100, 'dia': 'Segunda'}"
-"{'nome': 'Marta', 'matricula': 5456, 'sexo': 'Outro'}","{'nome': 'Paulo', 'idade': 48, 'sexo': 'F'}","{'nome': 'História', 'carga': 50, 'dia': 'Sexta'}"
+"{'nome': 'Marta', 'matricula': 7352, 'sexo': 'F'}","{'nome': 'Pedro', 'idade': 52, 'sexo': 'M'}","{'nome': 'Matemática', 'carga': 100, 'dia': 'Segunda'}"
+"{'nome': 'Ana', 'matricula': 5162, 'sexo': 'Outro'}","{'nome': 'Paulo', 'idade': 48, 'sexo': 'Outro'}","{'nome': 'Matemática', 'carga': 50, 'dia': 'Quarta'}"
+"{'nome': 'Marta', 'matricula': 1793, 'sexo': 'Outro'}","{'nome': 'Paulo', 'idade': 52, 'sexo': 'Outro'}","{'nome': 'Português', 'carga': 50, 'dia': 'Quarta'}"

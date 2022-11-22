@@ -1,0 +1,9 @@
+aluno,professor,matéria
+"{'nome': 'Marta', 'matricula': 2780, 'sexo': 'M'}","{'nome': 'Pedro', 'idade': 34, 'sexo': 'M'}","{'nome': 'História', 'carga': 50, 'dia': 'Segunda'}"
+"{'nome': 'Ana', 'matricula': 6856, 'sexo': 'F'}","{'nome': 'Pedro', 'idade': 48, 'sexo': 'M'}","{'nome': 'História', 'carga': 60, 'dia': 'Sexta'}"
+"{'nome': 'Ana', 'matricula': 8492, 'sexo': 'Outro'}","{'nome': 'Maria', 'idade': 52, 'sexo': 'F'}","{'nome': 'Matemática', 'carga': 50, 'dia': 'Segunda'}"
+"{'nome': 'Marta', 'matricula': 9938, 'sexo': 'M'}","{'nome': 'Pedro', 'idade': 52, 'sexo': 'F'}","{'nome': 'Matemática', 'carga': 100, 'dia': 'Sexta'}"
+"{'nome': 'Ana', 'matricula': 4800, 'sexo': 'Outro'}","{'nome': 'Paulo', 'idade': 48, 'sexo': 'F'}","{'nome': 'Matemática', 'carga': 100, 'dia': 'Sexta'}"
+"{'nome': 'Maria', 'matricula': 6415, 'sexo': 'Outro'}","{'nome': 'Paulo', 'idade': 52, 'sexo': 'M'}","{'nome': 'Português', 'carga': 100, 'dia': 'Sexta'}"
+"{'nome': 'Maria', 'matricula': 7487, 'sexo': 'Outro'}","{'nome': 'Pedro', 'idade': 52, 'sexo': 'Outro'}","{'nome': 'Matemática', 'carga': 100, 'dia': 'Sexta'}"
+"{'nome': 'Ana', 'matricula': 9830, 'sexo': 'F'}","{'nome': 'Maria', 'idade': 48, 'sexo': 'M'}","{'nome': 'Português', 'carga': 50, 'dia': 'Quarta'}"
