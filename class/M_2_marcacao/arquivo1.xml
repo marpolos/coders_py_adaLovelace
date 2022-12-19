@@ -1,0 +1,20 @@
+<?xml version="1.0">
+<filmes>
+    <filme id="1">
+        <nome>A vida de Brian</nome>
+        <ano_lancamento>1981</ano_lancamento>
+        <genero>comédia</genero>
+    </filme>
+
+    <!-- comentário -->
+
+    <filme id="2">
+        <nome>Em busca do cálice sagrado</nome>
+        <ano_lancamento>1981</ano_lancamento>
+        <genero>comédia</genero>
+        <notas>
+            <critico_1>10</critico_1>
+            <critico_2>10</critico_2>
+        </notas>
+    </filme>
+</filmes>

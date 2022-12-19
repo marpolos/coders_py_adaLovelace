@@ -7,3 +7,5 @@ aluno,professor,matéria
 "{'nome': 'Maria', 'matricula': 6415, 'sexo': 'Outro'}","{'nome': 'Paulo', 'idade': 52, 'sexo': 'M'}","{'nome': 'Português', 'carga': 100, 'dia': 'Sexta'}"
 "{'nome': 'Maria', 'matricula': 7487, 'sexo': 'Outro'}","{'nome': 'Pedro', 'idade': 52, 'sexo': 'Outro'}","{'nome': 'Matemática', 'carga': 100, 'dia': 'Sexta'}"
 "{'nome': 'Ana', 'matricula': 9830, 'sexo': 'F'}","{'nome': 'Maria', 'idade': 48, 'sexo': 'M'}","{'nome': 'Português', 'carga': 50, 'dia': 'Quarta'}"
+"{'nome': 'Ana', 'matricula': 9939, 'sexo': 'M'}","{'nome': 'Pedro', 'idade': 48, 'sexo': 'M'}","{'nome': 'Português', 'carga': 50, 'dia': 'Segunda'}"
+"{'nome': 'Ana', 'matricula': 3642, 'sexo': 'F'}","{'nome': 'Maria', 'idade': 52, 'sexo': 'Outro'}","{'nome': 'História', 'carga': 100, 'dia': 'Segunda'}"

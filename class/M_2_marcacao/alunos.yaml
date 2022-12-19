@@ -1,0 +1,16 @@
+alunos:
+  - daniel
+  - matheus
+  - marcelle
+turma:
+  alunos:
+    - "daniel"
+    - "matheus"
+    - "marcelle"
+  identificacao: 942
+  modalidade: online
+  patrocinadores:
+    - empresa: "santander"
+      papel: "financiadora"
+    - empresa: "ada"
+      papel: "operadora"

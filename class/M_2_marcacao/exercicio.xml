@@ -1,0 +1,27 @@
+<!-- Defina um XML de um cupom fiscal-->
+<!-- nome, qtd, valor u, tipo, valot total, estabelecimento, cnpj-->
+<?xml version="1.0">
+<NF>
+    <produtos>
+        <produto id="1">
+            <nome>Sabonete</nome>
+            <xs:float name="qtd" type="xs:float">3.0</xs:float name="qtd" type="xs:float">
+            <xs:float name="valor_unitario" type="xs:float">5.99</xs:float name="valor_unitario" type="xs:float">
+            <unidade_medida>g<unidade_medida>
+            <xs:float name="valor_total_item" type="xs:float">17.97</xs:float name="valor_total_item" type="xs:float">
+        </produto>
+
+        <produto id="2">
+            <nome>Hidratante</nome>
+            <qtd xs:float>2.0</qtd>
+            <valor_unitario xs:float>27.99</valor_unitario>
+            <unidade_medida>g<unidade_medida>
+            <valor_total_item xs:float>55.98<valor_total_item>
+        </produto>
+    </produtos>
+
+    <estabelecimento empresa="mercadinho"/>
+    <cnpj no="43.165.458/0001-03"/>
+    <valor_total_nota xs:float>73.95<valor_total_nota>
+
+</NF>
