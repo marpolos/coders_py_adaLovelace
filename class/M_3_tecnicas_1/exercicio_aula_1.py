@@ -9,7 +9,7 @@ c = chr(b)
 
 for codigo in range(256):
     caracter = chr(codigo)
-    #print(f'{codigo} - {caracter}')
+    # print(f'{codigo} - {caracter}')
 
 # Receba uma string e retorne um código equivalente à string
 # Faça o inverso
@@ -18,7 +18,7 @@ for codigo in range(256):
 def convert_string_in_code(word: str):
     code = np.array([])
     for letter in word:
-        np.append(code, ord(letter))
+        code = np.append(code, ord(letter))
 
     return code
 
